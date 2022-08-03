@@ -7,3 +7,4 @@ const app = document.getElementById('app')
 app.innerHTML = `<div>${text}</div>`
 
 // const foo = '111'
+const oshisi = '222'
